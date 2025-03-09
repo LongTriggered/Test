@@ -329,7 +329,7 @@ local function getMethodLoading()
 	FindFirstChildWhichIsA = game.FindFirstChildWhichIsA;
 	mfloor = math.floor
 
-	local NothingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/neuron/refs/heads/main/script.lua'))();
+	local NothingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/LongTriggered/Test/refs/heads/main/UI'))();
 	local Notification = NothingLibrary.Notification();
 
 	local CONTROL = {F = 0, B = 0, L = 0, R = 0, Q = 0, E = 0};
